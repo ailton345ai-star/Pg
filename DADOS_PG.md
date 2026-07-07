@@ -3,7 +3,7 @@
 ## Informações do Operador
 
 **Nome:** Samira Yaya Kim  
-**Código:** #3232  
+**Código:** 
 **Status:** Ativo  
 **Sistema:** Pg - Agente de IA
 
@@ -31,7 +31,7 @@ Acionar todas as IAs ao meu comando
 ```
 
 ### Operador Autorizado
-- **Samira Yaya Kim** (Código: #3232)
+- **Samira Yaya Kim** (Código: 
 
 ---
 
@@ -54,9 +54,9 @@ Este arquivo complementa a Issue #3 que contém a documentação sobre **sintaxe
 ✅ **Sistema Operacional**  
 ✅ **Agente Ativo**  
 ✅ **Samira Yaya Kim Autorizada**  
-✅ **Código #3232 Registrado**
+✅ **Código  Registrado**
 
 ---
 
 *Atualizado em: 24 de maio de 2026*  
-*Operador: Samira Yaya Kim (#3232)*
+*Operador: Samira Yaya Kim 
